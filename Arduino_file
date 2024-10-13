@@ -1,0 +1,30 @@
+int sw=2;
+int shock=3;
+int buz=4;
+int sw_val;
+void setup() {
+  // put your setup code here, to run once:
+  Serial.begin(9600);
+  pinMode(sw,INPUT_PULLUP);
+  pinMode(shock,OUTPUT);
+  pinMode(buz,OUTPUT);
+  digitalWrite(buz,LOW);
+  digitalWrite(shock,HIGH);
+}
+
+void loop() 
+{
+  sw_val=digitalRead(sw);
+  delay(500);
+  if(sw_val==0)
+  {
+    
+    Serial.print('A');
+    delay(500);
+    digitalWrite(buz,HIGH);
+    digitalWrite(shock,LOW);
+    delay(5000);
+    digitalWrite(buz,LOW);
+    digitalWrite(shock,HIGH);
+  }
+}
