@@ -4,7 +4,7 @@
 2. Problem Statement:-
 "Traditional safety measures like mobile apps and emergency hotlines often fail due to delays in response or lack of immediate defense mechanisms. There was a need for a more proactive and real-time solution."<br>
 3. Proposed Solution:-
-"We developed a smart protection system using an Arduino microcontroller and a Python-installed PC. The system includes:
+"We developed a smart protection system using an Arduino microcontroller and a Python-installed PC. The system includes:-<br>
 ▪ A webcam for real-time surveillance.<br>
 ▪ A panic button (emergency switch) that, when pressed, triggers multiple safety actions.<br>
 ▪ An image capture system that immediately sends a photo of the potential attacker to a preconfigured email.<br>
