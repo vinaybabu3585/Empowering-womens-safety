@@ -21,7 +21,7 @@ o Software: Python, OpenCV, Embedded C, Arduino IDE
 o "This system can be used in personal safety devices, smart wearables, public transportation, and workplace security."
 Interview Questions and Answers
 1. What inspired you to create this project?
-# ✅ "The increasing incidents of harassment and violence against women inspired me to work on a proactive safety solution. I wanted to create a system that could immediately alert authorities, provide real-time evidence, and offer a physical deterrent."
+✅ "The increasing incidents of harassment and violence against women inspired me to work on a proactive safety solution. I wanted to create a system that could immediately alert authorities, provide real-time evidence, and offer a physical deterrent."
 2. How does the system capture and send images?
 ✅ "The system uses OpenCV in Python to capture images from a webcam when the emergency switch is pressed. The image is then sent via email using an SMTP protocol, ensuring immediate documentation of the situation."
 3. What protocols are used for sending images in your project?
