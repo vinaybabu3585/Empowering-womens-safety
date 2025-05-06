@@ -13,7 +13,7 @@
 # 4. Implementation:-
 "The system uses serial communication between the PC and Arduino. The Python program captures and sends images via email using OpenCV. The hardware components, including a relay and inverter, control the shock mechanism."<br>
 # 5. Technologies Used:-
-Hardware: Arduino, Webcam, Relay, Emergency Switch, Mosquito Bat (Shock Mechanism), Power Supply
+Hardware: Arduino, Webcam, Relay, Emergency Switch, Mosquito Bat (Shock Mechanism), Power Supply.<br>
 Software: Python, OpenCV, Embedded C, Arduino IDE. <br>
 # 6. Applications:-
 "This system can be used in personal safety devices, smart wearables, public transportation, and workplace security."
