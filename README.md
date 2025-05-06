@@ -1,6 +1,6 @@
 # Empowering-womens-safety
 1.Introduction:-
-"My project is titled Empowering Women’s Safety with Smart IoT Technology: A Robust Protection System. It is designed to enhance women's security using IoT technology, integrating hardware and software components to provide a quick response in emergency situations."
+"My project is titled Empowering Women’s Safety with Smart IoT Technology: A Robust Protection System. It is designed to enhance women's security using IoT technology, integrating hardware and software components to provide a quick response in emergency situations."\n
 2. Problem Statement:-
 "Traditional safety measures like mobile apps and emergency hotlines often fail due to delays in response or lack of immediate defense mechanisms. There was a need for a more proactive and real-time solution."
 3. Proposed Solution:-
